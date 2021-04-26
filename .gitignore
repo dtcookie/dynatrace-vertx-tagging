@@ -1,4 +1,5 @@
 /target/
 /.settings/
+/samples/vertx-tagging-sample/.settings/
 .classpath
 .project
